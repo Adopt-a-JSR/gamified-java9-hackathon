@@ -1,5 +1,8 @@
 # gamified-java9-hackathon
 
+This repo has moved to AdoptOpenJDK as it's more appropriate.
+https://github.com/AdoptOpenJDK/gamified-java9-hackathon
+
 This is the source code for the Java 9 Gamified hackathon that was done on the 4'th of June 2016 at the Jozi-JUG.
 
 http://www.meetup.com/Jozi-JUG/events/229688441/
