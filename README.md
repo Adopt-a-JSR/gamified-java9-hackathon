@@ -15,7 +15,7 @@ Steps for testing
 - Hackaton people login to http://localhost:8080/ and start the challenge.
 
 For proper use
-- Issue your domain a certificate from letencypt.
+- Issue your domain a certificate from letsencypt.
 - Update application.properties.
 - Add firewall rules to redirect 8080 -> 80 and 8443 -> 443.
 - shell in a box is required for the JEP 286 demo. It's nice to show even if the JEP does not make Java 9.
